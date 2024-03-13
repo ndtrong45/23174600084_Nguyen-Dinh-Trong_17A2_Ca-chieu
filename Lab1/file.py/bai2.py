@@ -1,0 +1,6 @@
+ma_sach=input("Nhập vào mã sách: ")
+ten_sach=input("Nhập vào tên sách: ")
+tac_gia=input("Nhập vào tên tác giả: ")
+nam_xb=int(input("Nhập vào năm xuất bản: "))
+sl_sach=int(input("Nhập vào số lượng sách: "))
+print("Thư viện ĐHKTKTCN có",sl_sach,"sách",ten_sach,"với mã số",ma_sach,"Cuốn sách của tác giác",tac_gia,"được xuất bản vào năm",nam_xb) 
