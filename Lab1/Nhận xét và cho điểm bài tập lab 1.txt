@@ -1,0 +1,33 @@
++ Nên để file chương trình và file ảnh với nhau, không cần tách riêng folder. Vì tách riêng như vậy cô rất khó theo dõi
++ Nhận xét và cho điểm từng bài tập
+- Bài 1: đúng
+Điểm bài tập: 1.0 
+
+- Bài 2: đúng
+Điểm bài tập: 1.0 
+
+- Bài 3: đề bài yêu cầu làm tròn đến số thập phân thứ 2
+Điểm bài tập: 0.75
+
+- Bài 4: đúng
+Điểm bài tập: 1.0 
+
+- Bài 5: đúng
+Điểm bài tập: 1.0 
+
+- Bài 6: đúng
+Điểm bài tập: 1.0 
+
+- Bài 7: đúng
+Điểm bài tập: 1.0 
+
+- Bài 8: đúng
+Điểm bài tập: 1.0 
+
+- Bài 9: tọa độ trung điểm = (x1 + x2)/2
+Điểm bài tập: 0.75
+
+- Bài 10: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 1: 9.0
