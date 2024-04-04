@@ -1,0 +1,28 @@
+- Bài 1: 
+a) đúng
+b) đúng
+c) đề bài yêu cầu tính tổng các số có dạng 1/căn(2i) chứ không phải in ra các số chẵn có dạng 1/căn(i)
+Ví dụ: n = 4 thì tổng đúng là 1/căn(2) + 1/căn(4) + 1/căn(6) + 1/căn(8)
+Còn theo đoạn code của em sẽ là 1/căn(2) + 1/căn(4)
+d) đúng
+Điểm bài tập: 1.5
+
+- Bài 2: 
+a) đúng
+b) đúng
+Điểm bài tập: 2.0
+
+- Bài 3:
+a) đúng
+b) đúng
+c) đúng
+d) đúng
+e) đúng
+Điểm bài tập: 5.0
+
+- Bài 4:
+a) đúng
+b) đúng
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 3: 9.5
